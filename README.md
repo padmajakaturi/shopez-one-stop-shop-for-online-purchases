@@ -23,15 +23,19 @@ This project is built using the **MERN stack** (MongoDB, Express, React, Node.js
 
 * Sort by price and discount
 * Add products to cart
-* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb47445f-ba3d-41b9-94ee-6f217a323b6d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0051230-79df-4e5a-ad4e-2817a7cafa73" />
+
+
 
 
 * View cart and order details
-* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3ef3c78-4d87-450c-8492-b9189c957903" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f10b615f-7a2e-406b-be15-b7923717303a" />
+
 
 
 * Responsive user interface
-  <img width="1755" height="2232" alt="image" src="https://github.com/user-attachments/assets/16bcea2a-6a76-4aea-8a10-14f45f29be04" />
+  ![Screenshot_18-2-2026_135748_localhost](https://github.com/user-attachments/assets/64aeba4a-bda4-4561-ab89-2a030beaa733)
+
 
 
 
