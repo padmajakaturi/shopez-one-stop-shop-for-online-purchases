@@ -18,7 +18,8 @@ This project is built using the **MERN stack** (MongoDB, Express, React, Node.js
 
 * Browse all products
 * Filter products by category and gender
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a29cb370-9784-4e28-8cc4-743a64a88862" />
+<img width="1920" height="1080" alt="Screenshot (354)" src="https://github.com/user-attachments/assets/108db9f6-2f96-4d86-9fef-fc5b96e6ccd1" />
+
 
 
 * Sort by price and discount
@@ -40,15 +41,19 @@ This project is built using the **MERN stack** (MongoDB, Express, React, Node.js
 
 
 ### 🔧 Admin Features
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/001100f3-8c9b-4a1d-bdba-010271b30d30" />
+<img width="1920" height="1080" alt="Screenshot (342)" src="https://github.com/user-attachments/assets/941f704f-d309-4da4-854b-eb6c0d77c86b" />
+
 
 
 * Add new products
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42267ff4-bcff-4968-bcfb-37a64e9c4a3d" />
+  <img width="1920" height="1080" alt="Screenshot (343)" src="https://github.com/user-attachments/assets/cbcad1a0-938e-41bf-b832-598ff1625782" />
+
 
 
 * Update existing products
- <img width="1920" height="1080" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/54e647bf-0477-4cf0-a063-2d825d6b9f22" />
+<img width="1920" height="1080" alt="Screenshot (357)" src="https://github.com/user-attachments/assets/ea15ed6e-bf16-44b3-ad1e-a49b04820e28" />
+
+
 
 
 * Delete products
